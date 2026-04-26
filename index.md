@@ -6,10 +6,10 @@ layout: default
 # # COMP110 Final Project: Practice & Student Understanding
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="/static/imgs/plot1.png" alt="scatterplot"  width="500"/>
-<img src="/static/imgs/plot2.png" alt="lineplot"  width="500"/>
-<img src="/static/imgs/plot3.png" alt="boxplot"  width="500"/>
-<img src="/static/imgs/plot4.png" alt="barplot"  width="500"/>
+<img src="static/imgs/plot1.png" alt="scatterplot"  width="500"/>
+<img src="static/imgs/plot2.png" alt="lineplot"  width="500"/>
+<img src="static/imgs/plot3.png" alt="boxplot"  width="500"/>
+<img src="static/imgs/plot4.png" alt="barplot"  width="500"/>
 
 ## Project overview
 
