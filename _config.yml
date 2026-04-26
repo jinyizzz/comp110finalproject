@@ -18,20 +18,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: make comp110 better!
+email: jinyizhang1031@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  This project analyzes student survey data from a programming course to understand what factors help improve student learning. The main focus is on whether practice-based learning, such as programming assignments and lesson questions, is related to students’ understanding of course material. 
+  Using Python and Seaborn, the data was processed and visualized through different charts, including scatter plots, line plots, box plots, and bar plots. These visualizations were used to explore relationships between variables like programming effectiveness, lesson question effectiveness, understanding, and difficulty. 
+  The results suggest that students who find practice activities more effective tend to report higher levels of understanding. Based on this, the project recommends increasing structured practice opportunities in the course to support student learning.
+baseurl: "/comp110finalproject" # the subpath of your site, e.g. /blog
+url: "jinyizzz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jinyi
+github_username:  jinyizzz
 
 # Build settings
 # Build settings
-remote_theme: "jekyll/minima@1e8a445"
+remote_theme: "pages-themes/cayman@v0.2.0"
 
 plugins:
   - jekyll-remote-theme
